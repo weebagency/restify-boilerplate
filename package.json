@@ -1,0 +1,14 @@
+{
+  "name": "restify-ws-api",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "restify": "^4.1.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "request": "^2.74.0"
+  }
+}
